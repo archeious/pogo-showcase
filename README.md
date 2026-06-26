@@ -9,6 +9,10 @@ points are calculated for **"The Biggest"** (size-based) single-species showcase
 > third-party calculators, but treat exact constants as reverse-engineered, not
 > authoritative. Findings compiled **2026-06-26**.
 
+> 📚 See also **[`showcase-types.md`](./showcase-types.md)** for a catalog of every
+> showcase *format* (single-species, all-type, buddy-status), the pivotal Sept 2024
+> relative-size change, rewards/medals, and why no "smallest/XXS" showcase exists.
+
 ---
 
 ## TL;DR
