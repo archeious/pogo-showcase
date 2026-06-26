@@ -16,6 +16,9 @@ points are calculated for **"The Biggest"** (size-based) single-species showcase
 > - **[`predicting-showcases.md`](./predicting-showcases.md)** — how to anticipate
 >   *upcoming* showcases: the weekly "Showcase Tuesday" cadence, the fixed 20-category
 >   pool, event tie-ins, and why they can't be data-mined in advance.
+> - **[`upcoming-likelihood.md`](./upcoming-likelihood.md)** — a *speculative* ordered
+>   most→least-likely list for upcoming showcases (snapshot 2026-06-26), reasoned from
+>   the current season, event calendar, and spawn pools.
 
 ---
 
