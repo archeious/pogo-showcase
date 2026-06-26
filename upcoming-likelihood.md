@@ -78,9 +78,11 @@ players have had time to farm the species**, not at the start of its event:
 ## Ordered list — most → least likely
 
 ### Tier S — near-certain drivers
-1. **Sobble** (Water) — single-species, around the **Jul 4 CD** weekend. The strongest
-   recurring pattern in the feature (CD species = mega-abundant + thematic), and its CD
-   Saturday is bracketed by Showcase Tuesdays Jun 30 / Jul 7.
+1. **Sobble** (Water) — single-species, tied to the **Jul 4 CD**. The strongest
+   recurring pattern in the feature (CD species = mega-abundant + thematic). By the
+   accumulation principle its showcase slot is **concurrent with the CD (Jul 4)** or the
+   **Tuesday after (Jul 7)** — *not* Jun 30, which is *before* the CD farming window when
+   almost nobody owns a big Sobble.
 2. **Squawkabilly** (Flying) — **brand-new debut** during the **Flying Taxi event
    (Jun 23–29)**, wild-catchable. Debut promotion is a top-tier hook, and the timing is
    *favorable*: by the **accumulation principle**, the ideal payoff showcase is **Jun 30
