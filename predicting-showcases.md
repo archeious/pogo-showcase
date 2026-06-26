@@ -58,11 +58,18 @@ or the datamine.
 
 ---
 
-## 2. Do showcases follow current events? **Yes — the key species predictor**
+## 2. Do showcases follow current events? **A tendency, not a rule**
 
-Featured species/types are **drawn from / launch alongside** the concurrent in-game
-event, so reading the current event calendar (anniversaries, Community Days, special
-events) is the strongest species-level predictor.
+> 🔁 **Correction (2026-06-26):** an earlier version of this doc called event tie-ins
+> "the strongest species predictor." A later pass recovered actual Showcase Tuesday
+> lineups (**Jun 2 = Fire/Grass/Water**, **Jun 9 = Ghost/Psychic/Dark**) that did **not**
+> match their week's event. So event tie-ins **nudge** the odds but do **not** reliably
+> dictate the lineup — any Tuesday can be a generic 5-of-20 draw. See
+> [`upcoming-likelihood.md`](./upcoming-likelihood.md) for the corrected model.
+
+Featured species/types **tend to** be drawn from / launch alongside the concurrent
+in-game event, so the current event calendar (anniversaries, Community Days, special
+events) is a useful — but not decisive — species-level signal.
 
 Concrete historical examples:
 

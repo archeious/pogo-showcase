@@ -1,158 +1,157 @@
-# Upcoming showcase likelihood — speculation (as of 2026-06-26)
+# Upcoming showcase likelihood — speculation (re-evaluated 2026-06-26)
 
 A **speculative**, ordered most→least-likely list of Pokémon / types for upcoming
-PokéStop Showcases, reasoned from the current season, the event calendar, and the
-spawn-pool drivers. Companion to [`predicting-showcases.md`](./predicting-showcases.md)
-(the prediction *method*); this doc applies that method to a concrete moment in time.
+PokéStop Showcases. Companion to [`predicting-showcases.md`](./predicting-showcases.md)
+(the prediction *method*) and [`README.md`](./README.md) (the scoring formula).
 
-> ⚠️ **This is speculation, not a schedule.** Niantic does not pre-announce showcase
-> species far in advance. Verified sources establish the *template* (event tie-ins
-> layered over the 18-type + buddy rotation), **not** literal upcoming lineups.
-> **Exact past showcases will not repeat** — they are a guide to *shape and form*, not
-> substance. Snapshot date: **2026-06-26**.
+> ⚠️ **This is a probabilistic forecast, not a schedule.** As of 2026-06-26 the specific
+> 5 categories for the upcoming Showcase Tuesdays (Jun 30, Jul 7, Jul 14) are **not
+> published anywhere** — Nintendo Wire, Leek Duck, and Pokémon GO Hub all list only the
+> generic 20-category pool and confirm each week's lineup in-game on the day. Treat
+> everything below as odds, not facts.
 
----
-
-## Verified backdrop (the "shape")
-
-- **Season:** *Forever Forward* (Season 23), **Jun 2 – Sep 8 2026** — themed GO Fest /
-  Mega / Dynamax; weekly "Daily Discovery" structure (incl. Showcase Tuesday).
-- **Cadence / format:** "**Showcase Tuesday**," **5 categories drawn from a pool of 20**
-  (the 18 types + buddy/size categories), **5-entry cap** (raised 3→5 on Jun 2 2026).
-- **Dominant event drivers (next few weeks):**
-  - **Flying Taxi event** — **Jun 23–29 2026** (active now). **Squawkabilly's debut**
-    (Flying); catchable in the **wild + Field Research** (not raids). Other boosted
-    Flying-types: Hoothoot, Rookidee, Spearow, Wattrel.
-  - **Sobble Community Day** — **Sat Jul 4 2026**, 2–5pm local. Boosts Sobble (Water);
-    evolve for Inteleon + Hydro Cannon.
-  - **GO Fest 2026: Global** — **Jul 11–12 2026**, free for all. Debuts **Mega Mewtwo X
-    (Sat) / Y (Sun)** + Zeraora (Special Research); **Psychic/Mewtwo anchor**; six
-    type-themed habitats covering **all 18 types**.
-- **Spotlight Hours (Thu 6–7pm):** Wingull 6/25 · Pidgey 7/2 · *(7/9 skipped for GO
-  Fest)* · Zubat 7/16 · Eevee 7/23 · Bidoof 7/30.
-- **Other Community Days:** Frigibax (Jun 20, past) · Nickit (Aug 16).
-
-GO Fest habitats (define the type spawn pool that weekend):
-Stormfire Peaks (Ice/Electric/Fire) · Astral Tides (Psychic/Ghost/Water) ·
-Dragonflight Summit (Flying/Rock/Dragon) · Earthforged Domain (Ground/Steel/Normal) ·
-Verdant Anomaly (Poison/Bug/Grass) · Twilight Battlefield (Dark/Fairy/Fighting).
+> 🔁 **This version supersedes two earlier mistakes** (see "What changed" below): the
+> "accumulation principle" was mechanically wrong, and "showcases reliably follow the
+> current event" was overstated. Both are corrected here.
 
 ---
 
-## Ranking logic
+## What changed in this re-evaluation
 
-Showcases need an **abundant, catchable** species (you must catch one to enter), so the
-ranking weights:
-
-1. **Brand-new species debuts** — Niantic loves to promote a freshly-released species
-   with a single-species showcase. A wild-catchable debut tied to its launch event is
-   a top-tier hook. *(Added after the initial draft missed the Squawkabilly / Flying
-   Taxi debut — see caveats.)*
-2. **Event abundance** — Community Day species ≫ Spotlight Hour species ≫ ordinary
-   seasonal spawns.
-3. **Type reinforcement** — types boosted by concurrent events (CD + GO Fest habitats +
-   debut events).
-4. **Historical shape** — Community-Day-weekend single-species showcase + the weekly
-   18-type/buddy rotation.
-
-Corollary: **raid-only legendaries (Mewtwo, Zeraora) rarely get *single-species*
-showcases** (not wild-catchable in bulk) — they drive their **type** instead.
-
-Timing corollary — **the accumulation principle.** A "biggest" showcase rewards your
-*single largest specimen out of many catches*, so the well-timed showcase comes **after
-players have had time to farm the species**, not at the start of its event:
-
-- **Brand-new species:** nobody owns one before the launch event, so a Day-1 showcase is
-  near-pointless (everyone enters a random first-few-hours catch). The whole event is
-  the farming window; the payoff showcase belongs **at the end or the Tuesday right
-  after the event ends**. Entries come from **storage**, so it's fine if wild spawns
-  have already stopped — you enter the biggest one you banked.
-- **Already-common species** (e.g. the inaugural Squirtle, or a Spotlight species):
-  players already own a collection, so a same-day / Day-1 showcase works fine — no
-  accumulation needed.
-- **Community Day species:** the 3-hour CD itself is an ultra-dense farming burst, so a
-  concurrent or same-weekend showcase works (you build a big collection within hours).
+1. **The "accumulation principle" is refuted (mechanically).** Showcases score a
+   **single entered Pokémon** (≈80% scaled height + 15% weight + 5% IV + a flat **+178
+   XXL bonus**, max ~1178) — **not a summed collection**. You enter *one* Pokémon. So
+   "you need to build up a collection" was the wrong mechanism. *(Verified 3-0 against
+   the Fandom wiki + GO Hub research.)*
+2. **…but the directional conclusion survives, corrected.** Size is rolled randomly per
+   catch, so **high catch *volume* during an event raises the odds of having one XXL
+   specimen to enter**. A showcase therefore still benefits from following a high-spawn
+   window — for a *per-specimen-odds* reason, not a cumulative one. Call it the
+   **volume principle**.
+3. **Event tie-ins are a *tendency*, not a rule (biggest finding).** Recovered real
+   lineups show Showcase Tuesdays are **not consistently curated to that week's event**
+   (see history below). This downgrades the confidence of every event-tie-in prediction
+   and makes the generic 20-pool baseline a real competitor on any Tuesday.
+4. **Showcases are Tuesday-only** (Season of Forever Forward) → **no** showcase runs
+   concurrent with the Saturday Sobble Community Day; the nearest tie-in is **Jul 7**.
+5. **Mega Pokémon can't be entered** → the GO Fest Mewtwo tie-in is type-level (regular
+   Psychics) and weak.
+6. **Spotlight Hours are a weak/indirect driver** (one-hour single-species boosts, not
+   showcase categories) — downgraded.
+7. **Brand-new species may be *disfavored*** for "biggest size" showcases: a freshly
+   debuted species you've only caught a few of gives **poor XXL odds** (small sample).
+   This *lowers* Squawkabilly's confidence rather than raising it.
 
 ---
 
-## Ordered list — most → least likely
+## Recovered empirical history (the template, finally with data)
 
-### Tier S — near-certain drivers
-1. **Sobble** (Water) — single-species, tied to the **Jul 4 CD**. The strongest
-   recurring pattern in the feature (CD species = mega-abundant + thematic). By the
-   accumulation principle its showcase slot is **concurrent with the CD (Jul 4)** or the
-   **Tuesday after (Jul 7)** — *not* Jun 30, which is *before* the CD farming window when
-   almost nobody owns a big Sobble.
-2. **Squawkabilly** (Flying) — **brand-new debut** during the **Flying Taxi event
-   (Jun 23–29)**, wild-catchable. Debut promotion is a top-tier hook, and the timing is
-   *favorable*: by the **accumulation principle**, the ideal payoff showcase is **Jun 30
-   — the Showcase Tuesday immediately after the event ends**, once players have farmed a
-   week's worth and can enter their biggest banked specimen. This makes Squawkabilly the
-   single most plausible candidate for the **upcoming Jun 30** showcase specifically.
-   *(Caveat: still unconfirmed — trackers only reveal each week's 5 categories on the
-   day. Ranked just behind Sobble only because CD→showcase is a more established pattern
-   than debut→showcase.)*
-3. **Flying-type** — strongly reinforced: Squawkabilly debut **+** Wingull (6/25) /
-   Pidgey (7/2) / Zubat (7/16) Spotlights **+** GO Fest "Dragonflight" habitat.
-4. **Water-type** — double-reinforced (Sobble CD **+** GO Fest "Astral Tides").
-5. **Psychic-type** — GO Fest **Mewtwo anchor** (Jul 11–12 window).
+Actual confirmed Showcase Tuesday lineups (Nintendo Wire dated columns + Fandom wiki):
 
-### Tier A — strong (spotlight / GO Fest tie-ins)
-6. **Eevee** (Normal) — Spotlight **7/23** *and* a perennial showcase favorite.
-7. **Normal-type** — Pidgey (7/2), Eevee (7/23), Bidoof (7/30) are all Normal; GO Fest
-   "Earthforged" covers it.
-8. **GO Fest habitat types broadly** — Ghost, Dragon, Rock, Ice, Electric, Fire, Dark,
-   Fairy, Fighting, Ground, Steel, Poison, Bug, Grass all get a habitat → all plausible
-   for the Tuesdays bracketing **Jul 11–12**.
-9. **Pikachu / anniversary species** — July is PoGO's anniversary month (10th;
-   2016→2026); anniversary showcases historically feature a thematic species
-   (Squirtle = #007 for the 7th). **Speculative — no confirmed 2026 anniversary event
-   surfaced in research.**
+| Date | Confirmed categories | Matched that week's event? |
+|------|----------------------|----------------------------|
+| **Jun 2 2026** | Fire · Grass · Water · + 2 Buddy | **No** (season launch, generic) |
+| **Jun 9 2026** | Ghost · Psychic · Dark · + Great Buddy | **No** (not event-themed) |
+| Mar 31 2026 | (source listed the generic 18-type + 2-buddy pool, not a curated 5) | — |
 
-### Tier B — baseline rotation (any given Tuesday)
-10. **Buddy categories** — "Good Buddy or higher," "Great Buddy or higher" (2 of the
-    20-pool; recur frequently).
-11. **Individual Spotlight species as single-species showcases** — Pidgey, Wingull,
-    Zubat, Bidoof (common enough to enter; weaker pull than CD species).
-12. **Any remaining off-theme type** — still in-pool, just lacking a current event hook.
-
-### Tier C — least likely
-13. **Dragon single-species (Frigibax)** — Jun 20 CD already passed; window closing.
-14. **Nickit / Dark (Aug 16 CD)** — real, but beyond the "next few weeks."
-15. **Single-species showcases of raid-only legendaries (Mewtwo, Zeraora)** — not
-    wild-catchable in abundance → unlikely as *single-species*; their **types** are the
-    realistic expression.
-16. **Off-theme niche species with no spawn/event support** — bottom of the pool.
+**Takeaway:** the two best-documented recent Tuesdays were generic type lineups *not*
+aligned to a concurrent event. So a tie-in nudges the odds, but a random 5-of-20 lineup
+is entirely normal. No recovered dated example shows a brand-new species getting a
+same-event showcase — the debut driver remains **untested against history**.
 
 ---
 
-## Caveats & gaps
+## Verified event calendar (the drivers)
 
-- **Speculation, not a schedule** (see top banner). The template is confirmed; the
-  literal lineups are not.
-- **Correction (post-draft):** the initial version missed the **Flying Taxi event
-  (Jun 23–29 2026)** and **Squawkabilly's debut** entirely, and had no "brand-new
-  species debut" driver. Both were added after a follow-up check. Lesson: a freshly
-  released, wild-catchable species in an active event is a strong showcase candidate
-  and a named driver in its own right. (Verified via pokemon.com, pokemongo.com, Leek
-  Duck, and Pokémon GO Hub Flying Taxi pages.)
-- **Timing-model correction (post-correction):** an earlier revision called a post-event
-  showcase a "weak trailing" slot. That was wrong for brand-new species — by the
-  **accumulation principle**, the Tuesday *right after* a debut event (here **Jun 30**)
-  is the *optimal* slot, not a weak one, because players need the event week to farm a
-  big specimen and entries come from storage. Squawkabilly Jun 30 is therefore a strong,
-  imminent candidate. Still unconfirmed: trackers only reveal each week's 5 categories
-  on the day.
-- **The literal week-by-week March–June 2026 showcase history could not be recovered**
-  from available sources — the deep-research pass confirmed the *mechanic/shape*
-  (18-type + buddy rotation + event tie-ins) but not a reconstructed past list. So the
-  "template" rests on the confirmed format, not on an exact historical sequence. This
-  was the #1 open question from research.
-- The **10th-anniversary** July 2026 event is **hypothesized**, not confirmed by a
-  surfaced Niantic page.
-- The **August Community Day date** is reported as both Aug 15 and Aug 16 across sources;
-  species (Nickit) is a community-vote winner per GameRant, not yet a primary Niantic page.
-- All event facts are forward-looking Niantic announcements **subject to change**.
+- **Flying Taxi** — Jun 23–29 2026 (active now). **Squawkabilly debut** (Flying), 4
+  plumage forms, wild + Field Research catchable.
+- **Sobble Community Day** — **Sat Jul 4** 2026, 2–5pm. Sobble (Water); huge spawn
+  volume + shiny; evolve for Inteleon + Hydro Cannon.
+- **GO Fest 2026: Global** — Jul 11–12 2026. Mega Mewtwo X/Y (Psychic) debut; Zeraora;
+  six type habitats covering all 18 types. *(Megas are showcase-ineligible.)*
+- **Spotlight Hours (Thu 6–7pm, weak driver):** Wingull 6/25 · Pidgey 7/2 · Zubat 7/16
+  · Eevee 7/23 · Bidoof 7/30. *(7/9 skipped for GO Fest.)*
+- **10th-anniversary event:** hypothesized (PoGO launched Jul 2016) but **no anniversary
+  event distinct from GO Fest surfaced** in research — unconfirmed.
+
+---
+
+## Timing & ranking logic (corrected)
+
+A "biggest size" showcase rewards **one XXL specimen**, and XXL is rolled per catch, so:
+
+1. **Volume window** — types/species with a recent or imminent **high-spawn event** give
+   the best XXL odds, favoring a showcase **during or just after** that window. But…
+2. **Tie-ins are weak** — empirically, lineups often ignore the event, so this is a
+   nudge, not a lock.
+3. **Catchability** — only wild-catchable species/types qualify (Megas/raid-legendaries
+   are out as single-species).
+4. **Sample size** — brand-new debuts give few catches → poor XXL odds → *lower*, not
+   higher, suitability for a *size* showcase.
+
+---
+
+## Re-evaluated ordered list — most → least likely (next ~3 weeks)
+
+All confidences are **medium or lower** — the specific lineups are unpublished and
+history shows weak event-curation.
+
+### Tier 1 — best event-aligned bets
+1. **Water-type (Sobble) → Showcase Tuesday Jul 7.** Strongest pick: Sobble CD (Jul 4)
+   generates the highest catch volume of any upcoming event → best XXL-Water odds, and
+   Jul 7 is the first Tuesday after it. Water also has recent precedent (Jun 2).
+   *Confidence: medium.*
+2. **Flying-type (Squawkabilly) → Showcase Tuesday Jun 30.** Flying Taxi (Jun 23–29)
+   boosts Flying broadly; Jun 30 is the Tuesday right after. **Tempered** because a
+   brand-new debut gives a small sample → weaker XXL odds, and the debut driver is
+   untested against history. *Confidence: medium-low.*
+3. **Psychic-type → Showcase Tuesday Jul 14.** After GO Fest (Jul 11–12). **Weak**: the
+   headline draw (Mega Mewtwo) is showcase-ineligible, so the tie-in is only generic
+   Psychics; has recent precedent (Jun 9). *Confidence: low-medium.*
+
+### Tier 2 — the always-in-play baseline (any Tuesday)
+4. **Fire · Grass · Ghost · Dark**, plus **Good Buddy or higher** and **Great Buddy or
+   higher.** These appeared in the recovered Jun 2 / Jun 9 lineups with **no event
+   hook**, so they're materially likely on *any* given Tuesday — genuinely competitive
+   with the Tier-1 tie-ins for any specific date. *Confidence: medium that several of
+   these appear across the next few Tuesdays.*
+5. **Any other of the 18 types** — still in the 5-of-20 draw, just without a current nudge.
+
+### Tier 3 — least likely
+6. **Spotlight-Hour species as single-species showcases** (Wingull, Pidgey, Zubat,
+   Eevee, Bidoof) — Spotlight is a weak/indirect driver; not a showcase category.
+7. **Sobble/Water on Jun 30** — *before* its CD farming window → poor odds (this was the
+   inconsistency caught earlier; Sobble belongs to Jul 7).
+8. **Single-species showcases of Megas / raid-only legendaries** (Mega Mewtwo, Zeraora)
+   — **showcase-ineligible / not wild-catchable**; their *type* is the only expression.
+9. **Off-theme niche species with no spawn support** — bottom of the pool.
+
+---
+
+## Empirical vs. speculative (be honest about which is which)
+
+- **Empirical (well-grounded):** the scoring mechanics (single Pokémon, height-dominant,
+  +178 XXL); the Tuesday-only cadence; the 5-of-20 pool; the Jun 2 / Jun 9 actual
+  lineups; the event calendar (official sources).
+- **Speculative (inference only):** *every* specific forward prediction above — which 5
+  categories actually run on Jun 30 / Jul 7 / Jul 14. No source publishes them; they're
+  confirmed in-game on the day.
+
+## Refuted inputs (killed in verification)
+- ❌ A Dexerto "**Jun 30, 8am–12pm, all-18-types Biggest Size**" showcase — fabricated,
+  killed **0-3** (wrong time window; no such all-types format).
+- ❌ A "**Sobble CD concurrent showcase**" — killed **0-3**; showcases are Tuesday-only,
+  so the Jul 4 Saturday CD has no concurrent showcase.
+
+## Open questions
+- Will **Jun 30** actually feature Flying, or revert to a generic non-tied lineup like
+  Jun 2 / Jun 9 did? Unverifiable until in-game.
+- Does Niantic ever curate a showcase to a **brand-new species' own form** (a
+  Squawkabilly-specific category) vs. just its broad type? No dated example either way.
+- Is there a **July 2026 10th-anniversary** event with its own showcase categories? None
+  surfaced distinct from GO Fest.
+- Given Megas are showcase-ineligible, does GO Fest's Psychic habitat actually translate
+  into a **Jul 14 Psychic** showcase, or does the tie-in fail?
 
 ---
 
@@ -160,20 +159,19 @@ players have had time to farm the species**, not at the start of its event:
 
 | # | Source | Type |
 |---|--------|------|
-| 1 | [pokemon.com — Forever Forward Season announcement](https://www.pokemon.com/us/pokemon-news/put-the-pedal-to-the-metal-with-pokemon-gos-forever-forward-season) | **primary** |
-| 2 | [Niantic — July 2026 Sobble Community Day](https://pokemongo.com/en/news/communityday-july-2026-sobble) | **primary** |
-| 3 | [Niantic — June 2026 Frigibax Community Day](https://pokemongo.com/news/communityday-june-2026-frigibax) | **primary** |
-| 4 | [Niantic — GO Fest 2026: Global](https://pokemongo.com/en/gofest/global) | **primary** |
-| 5 | [Niantic — Save the date: next season's Community Days](https://pokemongohub.net/post/news/save-the-date-for-next-seasons-community-days-and-events-4/) | secondary |
-| 6 | [Pokémon GO Hub — Forever Forward guide](https://pokemongohub.net/post/guide/forever-forward/) | secondary |
-| 7 | [Pokémon GO Hub — June 2026 events](https://pokemongohub.net/post/event/june-2026-pokemon-go-events/) | secondary |
-| 8 | [Pokémon GO Hub — July 2026 events](https://pokemongohub.net/post/event/july-2026-pokemon-go-events/) | secondary |
-| 9 | [Leek Duck — GO Fest 2026: Global](https://leekduck.com/events/pokemon-go-fest-2026-global/) | secondary |
-| 10 | [Leek Duck — July Community Day 2026](https://leekduck.com/events/july-communityday2026/) | secondary |
-| 11 | [Serebii — July 2026 Community Day](https://www.serebii.net/pokemongo/communityday/july2026.shtml) | secondary |
-| 12 | [Geeks & Gamers — PoGO summer 2026 events](https://geeksandgamers.com/pokemon-go-summer-2026-events/) | secondary |
-| 13 | [TechTimes — Spotlight Hour moves to Thursdays](https://www.techtimes.com/articles/spotlight-hour-moves-to-thursdays) | secondary |
-| 14 | [pokemon.com — Squawkabilly Struts Into the Flying Taxi Event](https://www.pokemon.com/us/news/squawkabilly-struts-into-pokemon-gos-flying-taxi-event) | **primary** |
-| 15 | [Niantic — Flying Taxi 2026](https://pokemongo.com/news/flying-taxi-2026) | **primary** |
-| 16 | [Leek Duck — Flying Taxi 2026](https://leekduck.com/events/flying-taxi-2026/) | secondary |
-| 17 | [Pokémon GO Hub — Flying Taxi event 2026](https://pokemongohub.net/post/event/flying-taxi-event-2026/) | secondary |
+| 1 | [Niantic — July 2026 Sobble Community Day](https://pokemongo.com/news/communityday-july-2026-sobble) | **primary** |
+| 2 | [pokemon.com — Squawkabilly / Flying Taxi](https://www.pokemon.com/us/news/squawkabilly-struts-into-pokemon-gos-flying-taxi-event) | **primary** |
+| 3 | [Leek Duck — Flying Taxi 2026](https://leekduck.com/events/flying-taxi-2026/) | secondary |
+| 4 | [Leek Duck — GO Fest 2026: Global](https://leekduck.com/events/pokemon-go-fest-2026-global/) | secondary |
+| 5 | [Pokémon GO Hub — July 2026 events](https://pokemongohub.net/post/event/july-2026-pokemon-go-events/) | secondary |
+| 6 | [Pokémon GO Hub — Flying Taxi event 2026](https://pokemongohub.net/post/event/flying-taxi-event-2026/) | secondary |
+| 7 | [Nintendo Wire — Showcase Tuesday June 2nd 2026](https://nintendowire.com/guides/pokemon-go/showcase-tuesday-for-june-2nd-2026/) | secondary (empirical lineup) |
+| 8 | [Nintendo Wire — Showcase Tuesday June 9th 2026](https://nintendowire.com/guides/pokemon-go/showcase-tuesday-for-june-9th-2026/) | secondary (empirical lineup) |
+| 9 | [Nintendo Wire — Showcase Tuesday March 31st 2026](https://nintendowire.com/guides/pokemon-go/showcase-tuesday-for-march-31st-2026/) | secondary |
+| 10 | [Nintendo Wire — Showcase Tuesday May 19th 2026](https://nintendowire.com/guides/pokemon-go/showcase-tuesday-for-may-19th-2026/) | secondary |
+| 11 | [Nintendo Wire — Showcase Tuesday June 23rd 2026](https://nintendowire.com/guides/pokemon-go/showcase-tuesday-for-june-23rd-2026/) | secondary |
+| 12 | [Nintendo Wire — Community Day June 20th 2026](https://nintendowire.com/guides/pokemon-go/community-day-for-june-20th-2026/) | secondary |
+| 13 | [Nintendo Wire — Spotlight Hour June 25th 2026](https://nintendowire.com/guides/pokemon-go/spotlight-hour-for-june-25th-2026/) | secondary |
+| 14 | [Fandom — PokéStop Showcase](https://pokemongo.fandom.com/wiki/Pok%C3%A9Stop_Showcase) | secondary |
+| 15 | [Pokémon GO Hub — Showcase scores (XXS/XXL)](https://pokemongohub.net/post/research/showcase-scores-xxs-and-xxl-pokemon-and-how-it-works) | secondary |
+| 16 | [TechTimes — Spotlight Hour moves to Thursdays](https://www.techtimes.com/articles/318216/20260611/pokemon-go-spotlight-hour-moves-thursdays-full-schedule-through-august-revealed.htm) | secondary |
