@@ -58,10 +58,20 @@ ranking weights:
 Corollary: **raid-only legendaries (Mewtwo, Zeraora) rarely get *single-species*
 showcases** (not wild-catchable in bulk) — they drive their **type** instead.
 
-Timing corollary: a single-species tie-in showcase lands most naturally on a **Showcase
-Tuesday that falls *inside* the event window**. If the relevant Tuesday has already
-passed or the event ends before the next one, the tie-in is weaker (a possible
-*trailing* showcase rather than a near-lock).
+Timing corollary — **the accumulation principle.** A "biggest" showcase rewards your
+*single largest specimen out of many catches*, so the well-timed showcase comes **after
+players have had time to farm the species**, not at the start of its event:
+
+- **Brand-new species:** nobody owns one before the launch event, so a Day-1 showcase is
+  near-pointless (everyone enters a random first-few-hours catch). The whole event is
+  the farming window; the payoff showcase belongs **at the end or the Tuesday right
+  after the event ends**. Entries come from **storage**, so it's fine if wild spawns
+  have already stopped — you enter the biggest one you banked.
+- **Already-common species** (e.g. the inaugural Squirtle, or a Spotlight species):
+  players already own a collection, so a same-day / Day-1 showcase works fine — no
+  accumulation needed.
+- **Community Day species:** the 3-hour CD itself is an ultra-dense farming burst, so a
+  concurrent or same-weekend showcase works (you build a big collection within hours).
 
 ---
 
@@ -72,11 +82,14 @@ passed or the event ends before the next one, the tie-in is weaker (a possible
    recurring pattern in the feature (CD species = mega-abundant + thematic), and its CD
    Saturday is bracketed by Showcase Tuesdays Jun 30 / Jul 7.
 2. **Squawkabilly** (Flying) — **brand-new debut** during the **Flying Taxi event
-   (Jun 23–29)**, wild-catchable. Debut promotion is a top-tier hook. **Timing caveat:**
-   the natural tie-in Tuesday was **Jun 23** (event launch, already passed); the next
-   Tuesday **Jun 30** is *after* the event ends, so a Squawkabilly single-species
-   showcase would be a *trailing* one — plausible, not locked. No source confirmed a
-   scheduled Squawkabilly showcase.
+   (Jun 23–29)**, wild-catchable. Debut promotion is a top-tier hook, and the timing is
+   *favorable*: by the **accumulation principle**, the ideal payoff showcase is **Jun 30
+   — the Showcase Tuesday immediately after the event ends**, once players have farmed a
+   week's worth and can enter their biggest banked specimen. This makes Squawkabilly the
+   single most plausible candidate for the **upcoming Jun 30** showcase specifically.
+   *(Caveat: still unconfirmed — trackers only reveal each week's 5 categories on the
+   day. Ranked just behind Sobble only because CD→showcase is a more established pattern
+   than debut→showcase.)*
 3. **Flying-type** — strongly reinforced: Squawkabilly debut **+** Wingull (6/25) /
    Pidgey (7/2) / Zubat (7/16) Spotlights **+** GO Fest "Dragonflight" habitat.
 4. **Water-type** — double-reinforced (Sobble CD **+** GO Fest "Astral Tides").
@@ -120,9 +133,14 @@ passed or the event ends before the next one, the tie-in is weaker (a possible
   species debut" driver. Both were added after a follow-up check. Lesson: a freshly
   released, wild-catchable species in an active event is a strong showcase candidate
   and a named driver in its own right. (Verified via pokemon.com, pokemongo.com, Leek
-  Duck, and Pokémon GO Hub Flying Taxi pages.) Caveat retained: no source confirmed a
-  *scheduled* Squawkabilly showcase, and its cleanest tie-in Tuesday (Jun 23) had
-  already passed by the snapshot date.
+  Duck, and Pokémon GO Hub Flying Taxi pages.)
+- **Timing-model correction (post-correction):** an earlier revision called a post-event
+  showcase a "weak trailing" slot. That was wrong for brand-new species — by the
+  **accumulation principle**, the Tuesday *right after* a debut event (here **Jun 30**)
+  is the *optimal* slot, not a weak one, because players need the event week to farm a
+  big specimen and entries come from storage. Squawkabilly Jun 30 is therefore a strong,
+  imminent candidate. Still unconfirmed: trackers only reveal each week's 5 categories
+  on the day.
 - **The literal week-by-week March–June 2026 showcase history could not be recovered**
   from available sources — the deep-research pass confirmed the *mechanic/shape*
   (18-type + buddy rotation + event tie-ins) but not a reconstructed past list. So the
